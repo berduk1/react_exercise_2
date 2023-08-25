@@ -1,0 +1,12 @@
+{
+    "blogs": [
+        {
+            "title": "My blog",
+            "id": 1
+        },
+        {
+            "title": "New blog",
+            "id": 2
+        }
+    ]
+}
