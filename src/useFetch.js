@@ -6,6 +6,7 @@ const useFetch = (url) =>{
     const[isPending, setIsPending] = useState(null);
     const[error, setError] = useState(null);
 
+   
     useEffect(()=>{
         const abortConst = new AbortController();
         setTimeout(()=>{
@@ -34,5 +35,5 @@ const useFetch = (url) =>{
     }, [url])
     return {data, isPending, error}
     
-}
-export default useFetch
+}               
+export default useFetch  
