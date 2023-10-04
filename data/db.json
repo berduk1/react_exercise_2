@@ -2,10 +2,12 @@
     "blogs": [
         {
             "title": "My blog",
+            "author": "Me",
             "id": 1
         },
         {
             "title": "New blog",
+            "author": "Friend",
             "id": 2
         }
     ]
