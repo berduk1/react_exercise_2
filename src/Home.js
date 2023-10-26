@@ -6,7 +6,7 @@ const Home = () => {
     
     const{data:blogs, isPending, error} = useFetch('http://localhost:8000/blogs');
 
-    
+    //adding change for pull request//
     return (
         <div className='home'>
             { error && <div>{error}</div> }
