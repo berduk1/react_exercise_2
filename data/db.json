@@ -3,11 +3,13 @@
         {
             "title": "My blog",
             "author": "Me",
+            "body": "This is a blog no.1",
             "id": 1
         },
         {
             "title": "New blog",
             "author": "Friend",
+            "body": "This is a blog no.2",
             "id": 2
         }
     ]
