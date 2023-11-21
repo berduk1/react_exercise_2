@@ -18,7 +18,6 @@ const BlogDetails = () =>{
             </article>
             )}
         </div>
-        
     )
 }
 export default BlogDetails;
