@@ -1,16 +1,46 @@
 {
-    "blogs": [
-        {
-            "title": "My blog",
-            "author": "Me",
-            "body": "This is a blog no.1",
-            "id": 1
-        },
-        {
-            "title": "New blog",
-            "author": "Friend",
-            "body": "This is a blog no.2",
-            "id": 2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My blog",
+      "author": "Me",
+      "body": "This is a blog no.1",
+      "id": 1
+    },
+    {
+      "title": "New blog",
+      "author": "Friend",
+      "body": "This is a blog no.2",
+      "id": 2
+    },
+    {
+      "title": "TOLKIEN",
+      "body": "Lotr is the number 1 trilogy.",
+      "author": "john",
+      "id": 3
+    },
+    {
+      "title": "newest",
+      "body": "ffff",
+      "author": "",
+      "id": 4
+    },
+    {
+      "title": "newest",
+      "body": "ffff",
+      "author": "",
+      "id": 5
+    },
+    {
+      "title": "Newest ",
+      "body": "Bla bla bla",
+      "author": "",
+      "id": 6
+    },
+    {
+      "title": "Newest ",
+      "body": "Bla bla bla",
+      "author": "",
+      "id": 7
+    }
+  ]
 }
